@@ -1,0 +1,18 @@
+---
+layout: post
+title: "JEDI: Latent End-to-end Diffusion Mitigates Agent-Human Performance Asymmetry in Model-Based Reinforcement Learning"
+date: 2025-05-26 23:59:59 +00:00
+image: /images/jedi.png
+categories: research
+author: "Zarif Ikram"
+authors: "Jing Yu Lim, </strong>Zarif Ikram</strong>, Samson Yu, Haozhe Ma, Tze-Yun Leong, Dianbo Liu"
+venue: "Preprint."
+# code: https://github.com/zarifikram/egfn
+arxiv: https://arxiv.org/abs/2505.19698
+# project_page: https://openreview.net/forum?id=2gTEW29qsM
+# slides: docs/gitstorm.pdf
+# paper: https://openreview.net/forum?id=vRdn74Jkqp
+# accolade: "Outstanding paper award"
+---
+
+We find an interesting performance assymtry in Atari100k benchmark and propose a novel latent denoising world model solution for it.

@@ -1,0 +1,16 @@
+---
+title: "Bidirection Autonomous roBot with Obstacle avoidance (BABO)"
+date: "2023-01-03"
+image: images/babo.gif
+project_page: https://zarifikram.github.io/BABO
+authors: "<strong>Zarif Ikram</strong>, Md. Raihan Sobhan, Rayan Islam, Md. Labid Al Nahiyan, Anamul Hoque Emtiaj"
+author: "<strong>Zarif Ikram</strong>"
+code: https://github.com/zarifikram/BABO
+slides: docs/babo.pdf
+presentation: https://www.youtube.com/watch?v=kY4_WdqhLQ4&t=323s
+accolade: 2nd Prize
+venue: "CSE 316 (July 2022), BUET"
+categories: project
+---
+
+Named Bidirection Autonomous roBot with Obstacle avoidance (BABO), it uses Hierarchical Q learning to learn how to crawl forward while avoiding obstacle.

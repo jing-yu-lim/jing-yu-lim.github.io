@@ -1,0 +1,11 @@
+---
+title: "Khabo - a Solution for Efficient Purchase of Recipe-Focused Ingredients"
+date: "2023-10-01"
+image: images/khabo.png
+project_page: https://unsmartguy1099.github.io/khabo.github.io/
+authors: "<strong>Zarif Ikram</strong>, Md. Raihan Sobhan, Rayan Islam, Md. Labid Al Nahiyan, Anamul Hoque Emtiaj, Saifullah Hafiz"
+author: "<strong>Zarif Ikram</strong>"
+code: khabo.pdf
+venue: "CSE 326 (July 2023), BUET"
+categories: project
+---

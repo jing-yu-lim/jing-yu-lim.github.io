@@ -1,0 +1,18 @@
+---
+title: "Astha - Blockchain Enables Refugee Empowerment"
+date: "2022-06-01"
+image: images/astha.png
+project_page: https://astha-bd.web.app
+authors: "<strong>Zarif Ikram</strong>, Salman Sayeed, Jaid Monwar Chowdhury, Kazi Reyazul Islam"
+author: "<strong>Zarif Ikram</strong>"
+slides: docs/astha.pdf
+accolade: "Finalist"
+venue: "Bangladesh Blockchain Olympiad 2022"
+categories: project
+---
+
+Astha proposes a reliable and sustainable method to implement something that should be the norm: refugees' right to own their identity. While one problem can have multiple solutions, this paper shows that this problem can be suitably solved using a fully decentralized blockchain. Refugees need to be protected, and the first step to do so is to protect their identity.
+
+
+
+

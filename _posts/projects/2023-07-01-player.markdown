@@ -1,0 +1,12 @@
+---
+title: "Player Management System With Threading and Networking"
+date: "2021-03-01"
+venue: CSE 108 (January 2021)
+authors: "<strong>Zarif Ikram</strong>"
+author: "<strong>Zarif Ikram</strong>"
+image: /images/player.jpg
+presentation: https://www.youtube.com/watch?v=WuvOLNe71qU
+categories: project
+---
+
+A desktop application for buying and selling players with threading and networking using java.

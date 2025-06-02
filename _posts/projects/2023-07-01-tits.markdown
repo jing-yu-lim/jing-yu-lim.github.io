@@ -1,0 +1,12 @@
+---
+title: "Tensor Insight Training System"
+date: "2024-03-03"
+image: images/tits.png
+project_page: https://tensor-its.web.app
+authors: "<strong>Zarif Ikram</strong>, Anamul Hoque Emtiaj, Sk . Saifullah Hafiz"
+code: https://github.com/zarifikram/Tensor-Insight-Training-System
+venue: "CSE 408 (Jan 2024), BUET"
+categories: project
+---
+
+Learn tensor manipulation with PyTorch with our automatic puzzle generator, or practice problems made by friends!

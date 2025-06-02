@@ -1,0 +1,15 @@
+---
+layout: post
+title: "How to Train Your World Models"
+date: 2024-8-24 23:59:59 +00:00
+image: /images/roundabout.gif
+categories: talks
+# author: "Zarif Ikram"
+# authors: "<strong>Zarif Ikram</strong>, Golam Md Muktadir, Jim Whitehead"
+venue: "Beijing Institute of Technology"
+# code: https://github.com/AugmentedDesignLab/junction-art
+# arxiv: https://arxiv.org/abs/2303.17900
+slides: docs/wm_lecture_bit.pdf
+---
+
+<!-- Procedural content generation method to generate infinite complex roundabout HD maps that can be used in autonomous vehicle testing simulators. -->

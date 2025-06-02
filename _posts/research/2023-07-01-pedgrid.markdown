@@ -1,0 +1,14 @@
+---
+layout: post
+title: "PedGrid - A Simple yet Expressive Simulation Environment for Pedestrian Behavior Modeling"
+date: 2023-09-20 23:59:59 +00:00
+image: /images/pedgrid.gif
+categories: research
+author: "Zarif Ikram"
+authors: "Golam Md Muktadir, Taorui Huang, <strong>Zarif Ikram</strong>, Abdul Jawad, Jim Whitehead"
+venue: "IEEE ITSC"
+project_page: https://pedgrid.readthedocs.io/en/latest/
+code: https://github.com/adhocmaster/gym-pedgrid
+---
+
+We design and propose a grid-based simulator that is lightweight and can be used to model pedestrian behavior in a variety of scenarios. 

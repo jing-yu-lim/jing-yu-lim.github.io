@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Masked Generative Priors Improve World Models Sequence Modelling Capabilities"
+date: 2025-02-01 23:59:59 +00:00
+image: /images/gitstorm.png
+categories: research
+author: "Zarif Ikram"
+authors: "Cristian Meo*, Mircea Tudor Lică*, <strong>Zarif Ikram*</strong>, Akihiro Nakano, Vedant Shah, Aniket Rajiv Didolkar, Dianbo Liu, Anirudh Goyal, Justin Dauwels"
+venue: "ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling"
+# code: https://github.com/zarifikram/egfn
+# arxiv: https://arxiv.org/abs/2402.02186
+# project_page: https://openreview.net/forum?id=2gTEW29qsM
+slides: docs/gitstorm.pdf
+paper: https://openreview.net/forum?id=vRdn74Jkqp
+accolade: "Outstanding paper award"
+---
+
+Incorporating MaskGIT as a dynamics prior to enhance sequence modeling in world models, we address the limitation of transformer-based world models in continuous action environments and the inadequacies of prior methods, like STORM, in capturing effective state representations,  suggesting that Masked Generative Priors could be a powerful inductive bias for world models, supporting broader applicability across diverse RL tasks and environments.
