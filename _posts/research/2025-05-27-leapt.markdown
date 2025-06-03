@@ -6,7 +6,7 @@ image: /images/leapt.png
 categories: research
 author: "Jing Yu LIM"
 authors: "Kaiqi Chen, Jing Yu LIM, Kingsley Kuan, Harold Soh"
-venue: IROS 2023 
+venue: IROS 
 # code: https://github.com/zarifikram/egfn
 arxiv: https://arxiv.org/abs/2308.06498
 # project_page: https://openreview.net/forum?id=2gTEW29qsM
