@@ -15,4 +15,4 @@ arxiv: https://arxiv.org/abs/2505.19698
 # accolade: "Outstanding paper award"
 ---
 
-We uncover a performance assymetry of Model-Based RL agents on the Atari100k benchmark which is especially pronounced in pixel-based agents. We propose Joint Embedding DIffusion (JEDI) World Model to capture both the visual modeling power of diffusion models as well as the action temporal reasoning capabilities of latent world models.
+We uncover an performance assymetry of existing Model-Based RL agents on the Atari100k benchmark across agent-optimal and human-optimal tasks; this is especially pronounced in pixel-based agents. To address this, we propose Joint Embedding DIffusion (JEDI) World Model which captures both the visual modeling power of diffusion models as well as the action temporal reasoning capabilities of latent world models. JEDI World Model agents performs more holistically across both sets of tasks.
