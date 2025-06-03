@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Latent Emission-Augmented Perspective-Taking (LEAPT) for Human-Robot Interaction"
+date: 2023-08-23 23:59:59 +00:00
+image: /images/leapt.png
+categories: research
+author: "Jing Yu LIM"
+authors: "Kaiqi Chen, Jing Yu LIM, Kingsley Kuan, Harold Soh"
+venue: IROS 2023 
+# code: https://github.com/zarifikram/egfn
+arxiv: https://arxiv.org/abs/2308.06498
+# project_page: https://openreview.net/forum?id=2gTEW29qsM
+# slides: docs/gitstorm.pdf
+# paper: https://openreview.net/forum?id=vRdn74Jkqp
+# accolade: "Outstanding paper award"
+---
+
+We propose a deep multi-modal latent world model that enables the learning of uncertainty in latent space and perspective-taking of human's observation and belief in partially observable environments.
